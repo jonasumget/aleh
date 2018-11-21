@@ -1,0 +1,12 @@
+<style>
+body{
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+}
+Header{
+    height: 100px;
+    width: 500%;
+    background-color: azure;
+}
+</style>
