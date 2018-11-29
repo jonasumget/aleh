@@ -1,0 +1,22 @@
+div{
+    width: 200px;
+    height: 200px;
+    border: 5px solid burlywood;
+    border-radius: 100%;
+    background-image: url("https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-9/41046573_10156297827565709_2864836309912911872_n.jpg?_nc_cat=109&_nc_ht=scontent-nrt1-1.xx&oh=e053631d127d17243d9b9937edd4acef&oe=5C697858");
+    /*background-size: cover;*/
+    /*background-repeat: repeat;*/
+    display: inline-block;
+}
+
+img{
+    border: 10px inset royalblue;
+    height: 400px;
+    width: 400px;
+}
+
+.one{
+    border: 10px double firebrick;
+    height: 400px;
+    width: 400px;
+}
