@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="205c3ccf-d969-4c44-8699-b51755686956" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/011_box-sizing-border-box/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/011_box-sizing-border-box/main.css" afterDir="false" />
-    </list>
+    <list default="true" id="205c3ccf-d969-4c44-8699-b51755686956" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -18,10 +16,10 @@
       <split-first>
         <leaf>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/012_HW2/02/index.html">
+            <entry file="file://$PROJECT_DIR$/013_css-reset/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="120">
-                  <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+                <state relative-caret-position="210">
+                  <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
                 </state>
               </provider>
             </entry>
@@ -31,12 +29,8 @@
       <split-second>
         <leaf>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/012_HW2/02/main.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state>
-                  <caret lean-forward="true" />
-                </state>
-              </provider>
+            <entry file="file://$PROJECT_DIR$/013_css-reset/main.css">
+              <provider selected="true" editor-type-id="text-editor" />
             </entry>
           </file>
         </leaf>
@@ -99,6 +93,8 @@
         <option value="$PROJECT_DIR$/012_HW2/main2.css" />
         <option value="$PROJECT_DIR$/012_HW2/02/main.css" />
         <option value="$PROJECT_DIR$/012_HW2/02/index.html" />
+        <option value="$PROJECT_DIR$/013_css-reset/main.css" />
+        <option value="$PROJECT_DIR$/013_css-reset/index.html" />
       </list>
     </option>
   </component>
@@ -193,6 +189,11 @@
             <path>
               <item name="aleh" type="b2602c69:ProjectViewProjectNode" />
               <item name="aleh" type="462c0819:PsiDirectoryNode" />
+              <item name="006_HW" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aleh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aleh" type="462c0819:PsiDirectoryNode" />
               <item name="008_border-radius" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -208,19 +209,7 @@
             <path>
               <item name="aleh" type="b2602c69:ProjectViewProjectNode" />
               <item name="aleh" type="462c0819:PsiDirectoryNode" />
-              <item name="012_HW2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aleh" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aleh" type="462c0819:PsiDirectoryNode" />
-              <item name="012_HW2" type="462c0819:PsiDirectoryNode" />
-              <item name="01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aleh" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aleh" type="462c0819:PsiDirectoryNode" />
-              <item name="012_HW2" type="462c0819:PsiDirectoryNode" />
-              <item name="02" type="462c0819:PsiDirectoryNode" />
+              <item name="013_css-reset" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -280,12 +269,12 @@
       <option name="presentableId" value="Default" />
       <updated>1542785963429</updated>
       <workItem from="1542785965192" duration="6844000" />
-      <workItem from="1542854410525" duration="19476000" />
+      <workItem from="1542854410525" duration="20171000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26320000" />
+    <option name="totallyTimeSpent" value="27015000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="33" y="64" width="1400" height="784" extended-state="0" />
@@ -410,13 +399,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/006_HW/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="56" column="15" lean-forward="true" selection-start-line="56" selection-start-column="15" selection-end-line="56" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -576,6 +558,13 @@
     <entry file="file://$PROJECT_DIR$/012_HW2/01/main.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/012_HW2/02/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/012_HW2/02/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -583,10 +572,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/012_HW2/02/index.html">
+    <entry file="file://$PROJECT_DIR$/013_css-reset/main.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/006_HW/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="86">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/013_css-reset/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
