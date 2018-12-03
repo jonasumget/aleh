@@ -1,0 +1,34 @@
+body {
+    border: 1px solid black;
+    text-align: center;
+    box;
+}
+
+
+
+
+
+
+
+input {
+    font-size: 4rem;
+    margin-top: 4px;
+    border: 1px solid firebrick;
+}
+[type=submit] {
+    margin-top: 10px;
+    border: 1px solid firebrick;
+}
+
+[type=submit]:hover {
+    background-color: white;
+}
+
+[type=submit]:active {
+    background-color: royalblue;
+}
+
+input:required  {
+    border: 1px solid coral;
+    background-color: rgba(255);
+}
