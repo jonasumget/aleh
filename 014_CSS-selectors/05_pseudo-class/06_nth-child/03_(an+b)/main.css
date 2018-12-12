@@ -1,0 +1,4 @@
+/*li:nth-child(an+b)*/
+li:nth-child(3n+9){
+    color: firebrick;
+}

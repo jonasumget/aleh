@@ -1,0 +1,21 @@
+header{
+    font-family: "American Typewriter";
+    text-align: center;
+    font-size: 50px;
+    color: firebrick;
+}
+
+p{
+    margin: 20px;
+    text-indent: 10px;
+}
+
+p::first-letter {
+    font-family: cursive;
+    font-size: 32px;
+    line-height: .5px;
+}
+
+p::first-line {
+    font-weight: 900;
+}

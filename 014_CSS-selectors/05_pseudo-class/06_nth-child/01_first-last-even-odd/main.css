@@ -1,0 +1,28 @@
+body {
+    font-size: 28px;
+    color: white;
+    text-align: center;
+}
+
+li:first-child {
+    color: silver;
+}
+
+ul:first-child {
+    background-color: blanchedalmond;
+    border: 1px solid darkred;
+}
+
+ul:last-child {
+    background-color: blanchedalmond;
+    border: 1px solid darkred;
+}
+li:last-child {
+    color: darkblue;
+}
+li:nth-child(even) {
+    color: darkred;
+}
+li:nth-child(odd) {
+    color: silver;
+}
