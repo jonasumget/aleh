@@ -1,0 +1,9 @@
+body {
+    font-size: 36px;
+    text-align: center;
+}
+
+[target=_blank] {
+    color: firebrick;
+    border: 1px solid silver;
+}

@@ -1,0 +1,20 @@
+h1 {
+    color: darkred;
+    font-family: cursive;
+    border: 1px salmon solid;
+}
+
+/*#ichi {*/
+    /*color: darkblue;*/
+/*}*/
+
+.ni {
+    color: silver;
+}
+
+.san {
+    color: darkorange;
+}
+
+/*because the specicifity of class is higher than element, the browser applies the last */
+/*added command. only the color is nulled for lower specificity.*/

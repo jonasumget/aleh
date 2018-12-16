@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    font-size: 30px;
+    font-family: cursive;
+    padding: 7px;
+}
+
+/*+p immediate sibling of div*/
+div+p {
+    color: firebrick;
+}

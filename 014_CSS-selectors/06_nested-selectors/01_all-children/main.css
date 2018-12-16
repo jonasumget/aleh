@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    font-size: 30px;
+    font-family: cursive;
+    padding: 7px;
+}
+
+div p {
+    color: firebrick;
+}

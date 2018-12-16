@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    font-size: 30px;
+    font-family: cursive;
+    padding: 7px;
+}
+
+/*immediate child of a div <*/
+div>p {
+    color: firebrick;
+}
